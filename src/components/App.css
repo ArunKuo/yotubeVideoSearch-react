@@ -1,0 +1,48 @@
+
+.videos-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.player {
+    width: 70%;
+
+}
+
+.lists {
+    width: 25%;
+}
+
+@media (max-width:1199px){
+    .videos-container {
+        justify-content: flex-start;
+    
+    }
+
+    .player {
+        width: 70%;
+        margin-right: 10px;
+    
+    }
+    
+    .lists {
+        width: 20%;
+    }
+}
+
+@media (max-width:991px){
+
+
+    .player {
+        width: 100%;    
+        margin-bottom: 20px;
+    }
+    
+    .lists {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+}
