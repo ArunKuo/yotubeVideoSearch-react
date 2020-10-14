@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yotubeVideoSearch-react/static/css/main.6054b9ec.chunk.css",
+    "main.js": "/yotubeVideoSearch-react/static/js/main.9e32a93c.chunk.js",
+    "main.js.map": "/yotubeVideoSearch-react/static/js/main.9e32a93c.chunk.js.map",
+    "runtime-main.js": "/yotubeVideoSearch-react/static/js/runtime-main.419ef328.js",
+    "runtime-main.js.map": "/yotubeVideoSearch-react/static/js/runtime-main.419ef328.js.map",
+    "static/js/2.073fe359.chunk.js": "/yotubeVideoSearch-react/static/js/2.073fe359.chunk.js",
+    "static/js/2.073fe359.chunk.js.map": "/yotubeVideoSearch-react/static/js/2.073fe359.chunk.js.map",
+    "index.html": "/yotubeVideoSearch-react/index.html",
+    "precache-manifest.1dc109f9bb6b4176b953277889c35bcb.js": "/yotubeVideoSearch-react/precache-manifest.1dc109f9bb6b4176b953277889c35bcb.js",
+    "service-worker.js": "/yotubeVideoSearch-react/service-worker.js",
+    "static/css/main.6054b9ec.chunk.css.map": "/yotubeVideoSearch-react/static/css/main.6054b9ec.chunk.css.map",
+    "static/js/2.073fe359.chunk.js.LICENSE.txt": "/yotubeVideoSearch-react/static/js/2.073fe359.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.419ef328.js",
+    "static/js/2.073fe359.chunk.js",
+    "static/css/main.6054b9ec.chunk.css",
+    "static/js/main.9e32a93c.chunk.js"
+  ]
+}
